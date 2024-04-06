@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Auto Play Videos</string>
+
+    <string name="exit_text_below" translatable="false">Do you want to leave the app?</string>
+    <string name="exit_title_dialog" translatable="false">Exit</string>
+    <string name="exit_text_dialog" translatable="false">Do you want to exit?</string>
+    <string name="exit_no_dialog" translatable="false">No</string>
+    <string name="exit_yes_dialog" translatable="false">Yes</string>
+
+
+    <string name="title_dialog" translatable="false">DownLoad</string>
+    <string name="text_dialog" translatable="false">Do you want to download these Ads?</string>
+    <string name="no_dialog" translatable="false">No</string>
+    <string name="yes_dialog" translatable="false">Yes</string>
+
+</resources>
